@@ -8,3 +8,6 @@ The lastest of openssl can be loaded with https://www.openssl.org/source/openssl
 #SM3
 SM3 is a cryptographic hash function of Chinese national standard, the size of digest is 256bit. more detail you can refer to http://www.oscca.gov.cn/sca/xxgk/2010-12/17/1002389/files/302a3ada057c4a73830536d03e683110.pdf
 Here, I develop a SM3 test demo base on Openssl1.1.1(https://www.openssl.org/source/openssl-1.1.1-pre5.tar.gz).
+
+#SM2
+SM2 is one of Elliptic Curve algorithm that is defiend by the State Cryptography Administration. SM2 can be used to sign/verify and encrypto/decrypto and key exchange.
